@@ -1,0 +1,4 @@
+# Which kind of cheese do you use to disguise a small horse?
+# Mascarpone
+User-agent: *
+Disallow: /big-hairy-spiders
